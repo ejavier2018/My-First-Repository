@@ -14,4 +14,3 @@
 | Link            | `[alt text](image.jpg)`                                    | [alt text](image.jpg)                                |
 
 Add a new line for GIT demo --
-adding another line for demo --s
