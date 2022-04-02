@@ -12,6 +12,3 @@
 | Horizontal Rule | `---`                                                      | ---                                                  |
 | Link            | `[title](https://www.example.com)`                         | [title](https://www.example.com)                     |
 | Link            | `[alt text](image.jpg)`                                    | [alt text](image.jpg)                                |
-
-Add a new line for GIT demo --
-Add another line for GIT demo in VS Code!
